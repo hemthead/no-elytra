@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Prevents players from using rockets and elytra in the overworld.",
+    "pack_format": 61,
+    "supported_formats": [57, 61]
+  }
+}
